@@ -1,0 +1,25 @@
+Ideas for a capstone project for SPECS
+
+1. Making a site that checks and compares the prices of items at stores within
+an area given by the user. User can create a list of items and filter it based on 
+their requirements, and then have the site go through different stores in the area
+and create a list of items based off the users input and tell the user what items
+are at each store, and whether or not that store has curbside pick up available.
+
+2. Create a learning game for children, that filters the level of content based off
+the users age. It can be updated with new content. As the user progresses, it saves
+their data for them to pick up where they left off. User can create a customized
+avatar that they will use throughout the game while they progress.
+
+3. Build a DIY blog-style site that has information for how to do different projects
+or activities. Perhaps a health and well-being area as well. The site would not be
+limited to any particular topics.
+
+4. Create an app that can lay out your day for you based on what the user has or 
+wants to do for a day. User can also set long term goals, and it will add what to
+do for multiple days out at a time. User can edit parts of generated daily tasks
+if something doesn't work for them on that day or in general.
+
+5. Build a quiz app that allows users to search for specific topics, or choose a 
+random set of questions to answer. User can add own recommendations or quizzes that
+would be verified as being accurate.
